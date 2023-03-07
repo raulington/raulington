@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello! 😀
 
-<!--
-**raulington/raulington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer science and statistics major and math minor at the University of Illinois at Urbana-Champaign and proficient with using Python, Rust, JavaScript, C/C++, HTML/CSS, and Java. Right now I am interested in data science/software engineering and continuing to build computational and mathematical skills.
 
-Here are some ideas to get you started:
+How to reach me:
+📞 512-888-5741
+📫 raul.d.higareda@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn:
+👔 linkedin.com/in/raul-higareda-b8723b1a7/
+
+Personal Website:
+🌐 https://raulhigareda.com/
