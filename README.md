@@ -7,7 +7,5 @@ How to reach me:<br>
 📫 raul.d.higareda@gmail.com<br>
 
 LinkedIn:<br>
-👔 [linkedin.com/in/raul-higareda-b8723b1a7/](https://www.linkedin.com/in/raul-higareda-b8723b1a7/)<br>
+👔 [linkedin.com/in/raul-higareda-b8723b1a7/](https://www.linkedin.com/in/raul-higareda/)<br>
 
-Personal Website:<br>
-🌐 https://raulhigareda.com/<br>
